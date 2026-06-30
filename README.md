@@ -1,6 +1,10 @@
 # Hi there! 👋 I'm Mostafa Abohamar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;MERN+Stack;AI+%26+LMS+Enthusiast)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=22&pause=1200&color=D85A30&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack;AI+%26+LMS+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
