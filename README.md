@@ -27,20 +27,15 @@ I'm a passionate full-stack developer building modern web applications with the 
 
 ## 🔥 MORE PROJECTS
 
-| 🔐 **[AuthApp](https://github.com/Desha-Feisty/AuthApp)** | 🏫 **[SchoolApp](https://github.com/Desha-Feisty/SchoolApp)** | 🛒 **[shoppingApp](https://github.com/Desha-Feisty/shoppingApp)** |
+| 🔐 **[AuthApp](https://github.com/Desha-Feisty/AuthApp)** | 🔗 **[URL_Shortener](https://github.com/Desha-Feisty/URL_Shortener)** | 💰 **[React_Expense_Tracker](https://github.com/Desha-Feisty/React_Expense_Tracker)** |
 |---|---|---|
-| Full authentication system with JWT, email verification via Mailtrap, and secure session management. | School management backend with course/student data and RESTful API design. | TypeScript-based Express shopping cart application with product management. |
-| ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) |
+| Full authentication system with JWT, email verification via Mailtrap, and secure session management. | Simple URL shortener with Express and MongoDB. Shortens long URLs with redirect routing. | Client-side React expense tracking app. Add, delete, and track daily expenses. |
+| ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
 
-| 🔗 **[URL_Shortener](https://github.com/Desha-Feisty/URL_Shortener)** | 💰 **[React_Expense_Tracker](https://github.com/Desha-Feisty/React_Expense_Tracker)** | 🍬 **[Museum-of-candy](https://github.com/Desha-Feisty/Museum-of-candy)** |
-|---|---|---|
-| Simple URL shortener with Express and MongoDB. Shortens long URLs with redirect routing. | Client-side React expense tracking app. Add, delete, and track daily expenses. | Responsive Bootstrap candy shop landing page with beautiful parallax design. |
-| ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-
-| 🧠 **[neetcode-submissions](https://github.com/Desha-Feisty/neetcode-submissions)** |
-|---|
-| My NeetCode.io problem submissions — data structures and algorithms practice in JavaScript. |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222) ![Algorithms](https://img.shields.io/badge/Algorithms-00ADD8?style=flat-square&logo=thealgorithms&logoColor=white) |
+| 🍬 **[Museum-of-candy](https://github.com/Desha-Feisty/Museum-of-candy)** | 🧠 **[neetcode-submissions](https://github.com/Desha-Feisty/neetcode-submissions)** |
+|---|---|
+| Responsive Bootstrap candy shop landing page with beautiful parallax design. | My NeetCode.io problem submissions — data structures and algorithms practice in JavaScript. |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222) ![Algorithms](https://img.shields.io/badge/Algorithms-00ADD8?style=flat-square&logo=thealgorithms&logoColor=white) |
 
 > 👉 See pinned repos below for live demos and code!
 
