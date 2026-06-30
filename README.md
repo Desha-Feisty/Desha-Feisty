@@ -36,10 +36,10 @@ I'm a passionate full-stack developer building modern web applications with the 
 | Full authentication system with JWT, email verification via Mailtrap, and secure session management. | Simple URL shortener with Express and MongoDB. Shortens long URLs with redirect routing. | Client-side React expense tracking app. Add, delete, and track daily expenses. |
 | ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
 
-| 🍬 **[Museum-of-candy](https://github.com/Desha-Feisty/Museum-of-candy)** | 🧠 **[neetcode-submissions](https://github.com/Desha-Feisty/neetcode-submissions)** |
+| 🏕️ **[yelpcamp](https://github.com/Desha-Feisty/yelpcamp)** | 🧠 **[neetcode-submissions](https://github.com/Desha-Feisty/neetcode-submissions)** |
 |---|---|
-| Responsive Bootstrap candy shop landing page with beautiful parallax design. | My NeetCode.io problem submissions — data structures and algorithms practice in JavaScript. |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222) ![Algorithms](https://img.shields.io/badge/Algorithms-00ADD8?style=flat-square&logo=thealgorithms&logoColor=white) |
+| Full-stack campground review platform with user auth, map integration, image uploads, and reviews. | My NeetCode.io problem submissions — data structures and algorithms practice in JavaScript. |
+| ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![Mapbox](https://img.shields.io/badge/Mapbox-000?style=flat-square&logo=mapbox&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222) ![Algorithms](https://img.shields.io/badge/Algorithms-00ADD8?style=flat-square&logo=thealgorithms&logoColor=white) |
 
 > 👉 See pinned repos below for live demos and code!
 
