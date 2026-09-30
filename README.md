@@ -12,7 +12,7 @@
 
 I'm a passionate full-stack developer building modern web applications with the MERN stack.
 
-- 🔭 Currently building [EduBox](https://github.com/Desha-Feisty/Edu_Box) — a full-featured Learning Management System
+- 🔭 Currently building [EduBox](https://github.com/Mostafa-Abohamar/Edu_Box) — a full-featured Learning Management System
 - 🎮 Love gaming and game development
 - 🤖 Exploring AI integration in web apps (Gemini API, AI-powered grading)
 - 📱 Building real-time apps with Socket.io
@@ -25,18 +25,18 @@ I'm a passionate full-stack developer building modern web applications with the 
 
 | 📚 **[Edu_Box]** | 💬 **[ChatApp]** |
 |---|---|
-| **[EduBox](https://github.com/Desha-Feisty/Edu_Box)** — A full-stack Learning Management System with AI-powered quiz grading, real-time chat, student analytics, and calendar management. Features role-based access for students, teachers, and admins. <br/><br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) | **[ChatApp](https://github.com/Desha-Feisty/ChatApp)** — A real-time messaging application with user authentication, instant messaging, and media sharing via Cloudinary. Built with Socket.io for live communication. <br/><br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) |
+| **[EduBox](https://github.com/Mostafa-Abohamar/Edu_Box)** — A full-stack Learning Management System with AI-powered quiz grading, real-time chat, student analytics, and calendar management. Features role-based access for students, teachers, and admins. <br/><br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) | **[ChatApp](https://github.com/Desha-Feisty/ChatApp)** — A real-time messaging application with user authentication, instant messaging, and media sharing via Cloudinary. Built with Socket.io for live communication. <br/><br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) |
 
 ---
 
 ## 🔥 MORE PROJECTS
 
-| 🔐 **[AuthApp](https://github.com/Desha-Feisty/AuthApp)** | 🔗 **[URL_Shortener](https://github.com/Desha-Feisty/URL_Shortener)** | 💰 **[React_Expense_Tracker](https://github.com/Desha-Feisty/React_Expense_Tracker)** |
+| 🔐 **[AuthApp](https://github.com/Mostafa-Abohamar/AuthApp)** | 🔗 **[URL_Shortener](https://github.com/Mostafa-Abohamar/URL_Shortener)** | 💰 **[React_Expense_Tracker](https://github.com/Mostafa-Abohamar/React_Expense_Tracker)** |
 |---|---|---|
 | Full authentication system with JWT, email verification via Mailtrap, and secure session management. | Simple URL shortener with Express and MongoDB. Shortens long URLs with redirect routing. | Client-side React expense tracking app. Add, delete, and track daily expenses. |
 | ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
 
-| 🏕️ **[yelpcamp](https://github.com/Desha-Feisty/yelpcamp)** | 🧠 **[neetcode-submissions](https://github.com/Desha-Feisty/neetcode-submissions)** |
+| 🏕️ **[yelpcamp](https://github.com/Mostafa-Abohamar/yelpcamp)** | 🧠 **[neetcode-submissions](https://github.com/Mostafa-Abohamar/neetcode-submissions)** |
 |---|---|
 | Full-stack campground review platform with user auth, map integration, image uploads, and reviews. | My NeetCode.io problem submissions — data structures and algorithms practice in JavaScript. |
 | ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![Mapbox](https://img.shields.io/badge/Mapbox-000?style=flat-square&logo=mapbox&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222) ![Algorithms](https://img.shields.io/badge/Algorithms-00ADD8?style=flat-square&logo=thealgorithms&logoColor=white) |
@@ -56,19 +56,19 @@ I'm a passionate full-stack developer building modern web applications with the 
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Desha-Feisty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desha-Feisty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Abohamar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Abohamar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Desha-Feisty&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mostafa-Abohamar&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🐍 CONTRIBUTION SNAKE
 
-![github contribution grid snake animation](https://github.com/Desha-Feisty/Desha-Feisty/raw/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://github.com/Mostafa-Abohamar/Desha-Feisty/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -111,13 +111,13 @@ I'm a passionate full-stack developer building modern web applications with the 
 ## 📫 CONNECT WITH ME
 
 <p align="center">
-  <a href="https://github.com/Desha-Feisty">
+  <a href="https://github.com/Mostafa-Abohamar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:deshafeisty@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/mostafa-abohamar-aa135936a/">
+  <a href="https://www.linkedin.com/in/mostafa-abohamar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -129,5 +129,5 @@ I'm a passionate full-stack developer building modern web applications with the 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Desha-Feisty&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mostafa-Abohamar&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
